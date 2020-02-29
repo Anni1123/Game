@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
                     TextView winnerMessage = (TextView) findViewById(R.id.winnerMessage);
 
-                    winnerMessage.setText(winner + " has won!");
+                    winnerMessage.setText(winner + " has Won!");
 
                     LinearLayout layout = (LinearLayout)findViewById(R.id.playAgainLayout);
 
